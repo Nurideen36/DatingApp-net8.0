@@ -19,3 +19,4 @@ export class HomeComponent {
     this.registerMode = event;
   }
 }
+
